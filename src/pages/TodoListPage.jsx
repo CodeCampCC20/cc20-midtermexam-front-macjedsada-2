@@ -2,7 +2,7 @@ import React from 'react'
 
 function TodoListPage() {
   return (
-    <div className='bg-purple-950 h-screen'>
+    <div className='bg-gradient-to-b from-[#3f1d69] to-[#21193c] h-screen'>
       <div className='flex justify-center'>
         <div className='bg-[#1e1e1e] w-sm mt-40 rounded-lg'>
           <div className='p-8'>
